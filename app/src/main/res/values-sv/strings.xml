@@ -9,7 +9,6 @@
     <string name="allow_zooming_moving_canvas">Tillåt zoomning och förflyttning av arbetsytan med gester</string>
     <string name="clear">Rensa</string>
     <string name="change_background_color">Ändra bakgrundsfärg</string>
-    <string name="app_launcher_name">Måla</string>
     <string name="use_relative_brush_size">Justera penselstorleken utifrån zoomnivån</string>
     <string name="clear_canvas_confirmation">Är du säker på att du vill rensa arbetsytan?</string>
 </resources>

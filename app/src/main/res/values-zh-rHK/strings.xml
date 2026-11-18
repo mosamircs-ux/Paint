@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="open_file">開啟檔案</string>
-    <string name="app_launcher_name">繪畫</string>
     <string name="eraser">擦膠</string>
     <string name="eyedropper">取色工具</string>
     <string name="bucket_fill">填滿顏色</string>

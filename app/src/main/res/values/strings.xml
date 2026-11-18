@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_launcher_name">Paint</string>
     <string name="open_file">Open file</string>
+    <string name="brush">Brush</string>
     <string name="eraser">Eraser</string>
     <string name="eyedropper">Eyedropper</string>
     <string name="bucket_fill">Bucket fill</string>
     <string name="failed_to_load_image">Failed to load image %s</string>
     <string name="clear_canvas_confirmation">Are you sure you want to clear the canvas?</string>
+    <string name="about_lumina_message">Lumina Paint v%1$s\n\nModern creative studio for effortless sketching, vector fills, and PNG / JPG / SVG export.\n\nLicensed under GNU GPL v3.0 (derived from Fossify Paint &amp; Fossify Commons).</string>
 
     <!-- Settings -->
     <string name="show_brush_size">Show brush size tool</string>
@@ -14,8 +15,4 @@
     <string name="use_relative_brush_size">Adjust brush size based on zoom level</string>
     <string name="clear">Clear</string>
     <string name="change_background_color">Change background color</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
 </resources>

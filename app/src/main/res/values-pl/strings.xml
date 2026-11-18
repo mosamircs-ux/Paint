@@ -9,7 +9,6 @@
     <string name="allow_zooming_moving_canvas">Zezwalaj na powiększanie i przesuwanie płótna gestami</string>
     <string name="clear">Wyczyść</string>
     <string name="change_background_color">Zmień kolor tła</string>
-    <string name="app_launcher_name">Paint</string>
     <string name="use_relative_brush_size">Dostosowuj rozmiar pędzla do powiększenia</string>
     <string name="clear_canvas_confirmation">Czy wyczyścić płótno?</string>
 </resources>

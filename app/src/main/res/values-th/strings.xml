@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="open_file">เปิดไฟล์</string>
-    <string name="app_launcher_name">ระบายสี</string>
     <string name="eraser">ยางลบ</string>
     <string name="eyedropper">หลอดหยด</string>
     <string name="failed_to_load_image">ไม่สามารถโหลดรูปภาพ %s ได้</string>

@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="AppTheme" parent="AppTheme.Base"/>
-
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="colorPrimary">@color/lumina_indigo</item>
+        <item name="colorAccent">@color/lumina_coral</item>
+    </style>
 </resources>

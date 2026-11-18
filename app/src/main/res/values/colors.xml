@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Creative Studio Brand Palette (overrides default primary) -->
+    <color name="color_primary">#4F46E5</color>
+    <color name="lumina_indigo">#4F46E5</color>
+    <color name="lumina_indigo_dark">#312E81</color>
+    <color name="lumina_indigo_soft">#EEF2FF</color>
+    <color name="lumina_coral">#FF5A79</color>
+    <color name="lumina_amber">#FFB84D</color>
+    <color name="lumina_emerald">#10B981</color>
+    <color name="lumina_cyan">#38BDF8</color>
+    <color name="lumina_violet">#8B5CF6</color>
+    <color name="lumina_charcoal">#1E1B4B</color>
+
+    <!-- Studio Floating Surfaces -->
+    <color name="lumina_pill_light">#F2FFFFFF</color>
+    <color name="lumina_pill_stroke_light">#244F46E5</color>
+    <color name="lumina_pill_dark">#EB1E1B4B</color>
+    <color name="lumina_pill_stroke_dark">#38FFFFFF</color>
+    <color name="lumina_ad_surface">#F8FAFC</color>
+    <color name="lumina_ad_divider">#1A1E1B4B</color>
+</resources>

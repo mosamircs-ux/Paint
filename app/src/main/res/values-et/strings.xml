@@ -9,7 +9,6 @@
     <string name="allow_zooming_moving_canvas">Luba lõuendit liigutustega suumida ja liigutada</string>
     <string name="clear">Tühjenda</string>
     <string name="change_background_color">Vaheta taustavärvi</string>
-    <string name="app_launcher_name">Maalija</string>
     <string name="use_relative_brush_size">Kohenda pintsli suurust vastavalt pildi suurendusele</string>
     <string name="clear_canvas_confirmation">Kas sa oled kindel, et soovid lõuendi tühjendada?</string>
 </resources>

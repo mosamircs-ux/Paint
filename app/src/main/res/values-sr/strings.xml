@@ -9,6 +9,5 @@
     <string name="allow_zooming_moving_canvas">Дозволите зумирање и померање платна покретима</string>
     <string name="clear">Јасно</string>
     <string name="change_background_color">Промените боју позадине</string>
-    <string name="app_launcher_name">Бојанка</string>
     <string name="use_relative_brush_size">Промени величину четкице у зависности од нивоа зума</string>
 </resources>

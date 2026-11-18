@@ -9,7 +9,6 @@
     <string name="allow_zooming_moving_canvas">Дозволити масштабування та переміщення полотна за допомогою жестів</string>
     <string name="clear">Очистити</string>
     <string name="change_background_color">Змінити колір тла</string>
-    <string name="app_launcher_name">Малювання</string>
     <string name="use_relative_brush_size">Налаштувати розмір пензля залежно від рівня масштабування</string>
     <string name="clear_canvas_confirmation">Упевнені, що хочете очистити полотно?</string>
 </resources>

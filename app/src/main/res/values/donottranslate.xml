@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="package_name">org.fossify.paint</string>
-    <string name="app_name">Fossify Paint</string>
+    <string name="package_name" translatable="false">com.luminapaint.draw</string>
+    <string name="app_name" translatable="false">Lumina Paint</string>
+    <string name="app_launcher_name" translatable="false">Lumina Paint</string>
 </resources>

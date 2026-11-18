@@ -23,7 +23,7 @@ fun hasSigningVars(): Boolean {
 
 base {
     val versionCode = project.property("VERSION_CODE").toString().toInt()
-    archivesName = "paint-$versionCode"
+    archivesName = "lumina-paint-$versionCode"
 }
 
 android {
@@ -69,10 +69,16 @@ android {
     buildTypes {
         debug {
             applicationIdSuffix = ".debug"
+            manifestPlaceholders["admobAppId"] = "ca-app-pub-3940256099942544~3347511713"
+            buildConfigField("String", "ADMOB_BANNER_ID", "\"ca-app-pub-3940256099942544/9214589741\"")
+            buildConfigField("String", "ADMOB_INTERSTITIAL_ID", "\"ca-app-pub-3940256099942544/1033173712\"")
         }
         release {
             isMinifyEnabled = true
             isShrinkResources = true
+            manifestPlaceholders["admobAppId"] = "ca-app-pub-4969792934066333~9365687189"
+            buildConfigField("String", "ADMOB_BANNER_ID", "\"ca-app-pub-4969792934066333/9220995763\"")
+            buildConfigField("String", "ADMOB_INTERSTITIAL_ID", "\"ca-app-pub-4969792934066333/4780729865\"")
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
@@ -151,5 +157,6 @@ dependencies {
     implementation(libs.clipper2)
     implementation(libs.fossify.commons)
     implementation(libs.androidx.print)
+    implementation(libs.play.services.ads)
     detektPlugins(libs.compose.detekt)
 }

@@ -8,7 +8,6 @@
     <string name="allow_zooming_moving_canvas">Позволяване на мащабиране и преместване на платното с жестове</string>
     <string name="clear">Изчистване</string>
     <string name="change_background_color">Промяна на цвета на фона</string>
-    <string name="app_launcher_name">Рисуване</string>
     <string name="bucket_fill">Запълване</string>
     <string name="clear_canvas_confirmation">Изчистване на платното?</string>
     <string name="use_relative_brush_size">Променяне размера на четката според мащаба</string>
